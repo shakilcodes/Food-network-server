@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors')
 const app = express();
-const port = 5003;
+const port = 5005;
 app.use(cors())
 
 const datas = require('./Data/data.json')
@@ -15,7 +15,7 @@ app.get('/datas',(req, res)=>{
 
 
 app.get('/data', (req, res)=>{
-   res.send('Hi every')
+   res.send('Hi everuone')
 })
 
 
