@@ -1,0 +1,285 @@
+[{
+    "id": "1",
+    "picture": "https://example.com/chef-profile-pic.jpg",
+    "name": "John Smith",
+    "yearsOfExperience": "5 years",
+    "numberOfRecipes": 6,
+    "likes": 1000,
+    "shortBio": "John Smith is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
+    "recipes": [
+      {
+        "title": "Three-Cheese Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Cheddar cheese",
+          "Gruyere cheese",
+          "Parmesan cheese",
+          "Milk"
+        ],
+        "cookingMethod": "1. Cook the macaroni according to the package instructions.\n2. In a separate saucepan, melt the cheddar, gruyere, and parmesan cheeses with the milk over low heat.\n3. Add the cooked macaroni to the cheese sauce and stir to combine.",
+        "rating": 4.5
+      },
+      {
+        "title": "Grilled Ribeye Steak",
+        "ingredients": [
+          "Ribeye steak",
+          "Olive oil",
+          "Salt",
+          "Pepper",
+          "Garlic"
+        ],
+        "cookingMethod": "1. Preheat the grill to high heat.\n2. Brush the steak with olive oil and season with salt and pepper.\n3. Grill the steak for 4-5 minutes per side for medium-rare.\n4. Let the steak rest for 5 minutes before slicing.\n5. Optional: add minced garlic to the steak during the last minute of grilling for extra flavor.",
+        "rating": 4.2
+      },
+      {
+        "title": "Chocolate Chip Cookies",
+        "ingredients": [
+          "All-purpose flour",
+          "Brown sugar",
+          "White sugar",
+          "Butter",
+          "Chocolate chips"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F.\n2. Cream the butter, brown sugar, and white sugar in a mixing bowl.\n3. Add the flour and mix until well combined.\n4. Stir in the chocolate chips.\n5. Drop spoonfuls of dough onto a baking sheet.\n6. Bake for 10-12 minutes or until the edges are golden brown.",
+        "rating": 4.8
+      }
+    ]
+  },
+
+  {
+    "id": "2",
+    "picture": "https://example.com/chef-profile-pic.jpg",
+    "name": "Shakil ahmed",
+    "yearsOfExperience": "5 years",
+    "numberOfRecipes": 6,
+    "likes": 1000,
+    "shortBio": "John Smith is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
+    "recipes": [
+      {
+        "title": "Three-Cheese Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Cheddar cheese",
+          "Gruyere cheese",
+          "Parmesan cheese",
+          "Milk"
+        ],
+        "cookingMethod": "1. Cook the macaroni according to the package instructions.\n2. In a separate saucepan, melt the cheddar, gruyere, and parmesan cheeses with the milk over low heat.\n3. Add the cooked macaroni to the cheese sauce and stir to combine.",
+        "rating": 4.5
+      },
+      {
+        "title": "Grilled Ribeye Steak",
+        "ingredients": [
+          "Ribeye steak",
+          "Olive oil",
+          "Salt",
+          "Pepper",
+          "Garlic"
+        ],
+        "cookingMethod": "1. Preheat the grill to high heat.\n2. Brush the steak with olive oil and season with salt and pepper.\n3. Grill the steak for 4-5 minutes per side for medium-rare.\n4. Let the steak rest for 5 minutes before slicing.\n5. Optional: add minced garlic to the steak during the last minute of grilling for extra flavor.",
+        "rating": 4.2
+      },
+      {
+        "title": "Chocolate Chip Cookies",
+        "ingredients": [
+          "All-purpose flour",
+          "Brown sugar",
+          "White sugar",
+          "Butter",
+          "Chocolate chips"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F.\n2. Cream the butter, brown sugar, and white sugar in a mixing bowl.\n3. Add the flour and mix until well combined.\n4. Stir in the chocolate chips.\n5. Drop spoonfuls of dough onto a baking sheet.\n6. Bake for 10-12 minutes or until the edges are golden brown.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "picture": "https://example.com/chef-profile-pic.jpg",
+    "name": "Shakil ahmed",
+    "yearsOfExperience": "5 years",
+    "numberOfRecipes": 6,
+    "likes": 1000,
+    "shortBio": "John Smith is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
+    "recipes": [
+      {
+        "title": "Three-Cheese Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Cheddar cheese",
+          "Gruyere cheese",
+          "Parmesan cheese",
+          "Milk"
+        ],
+        "cookingMethod": "1. Cook the macaroni according to the package instructions.\n2. In a separate saucepan, melt the cheddar, gruyere, and parmesan cheeses with the milk over low heat.\n3. Add the cooked macaroni to the cheese sauce and stir to combine.",
+        "rating": 4.5
+      },
+      {
+        "title": "Grilled Ribeye Steak",
+        "ingredients": [
+          "Ribeye steak",
+          "Olive oil",
+          "Salt",
+          "Pepper",
+          "Garlic"
+        ],
+        "cookingMethod": "1. Preheat the grill to high heat.\n2. Brush the steak with olive oil and season with salt and pepper.\n3. Grill the steak for 4-5 minutes per side for medium-rare.\n4. Let the steak rest for 5 minutes before slicing.\n5. Optional: add minced garlic to the steak during the last minute of grilling for extra flavor.",
+        "rating": 4.2
+      },
+      {
+        "title": "Chocolate Chip Cookies",
+        "ingredients": [
+          "All-purpose flour",
+          "Brown sugar",
+          "White sugar",
+          "Butter",
+          "Chocolate chips"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F.\n2. Cream the butter, brown sugar, and white sugar in a mixing bowl.\n3. Add the flour and mix until well combined.\n4. Stir in the chocolate chips.\n5. Drop spoonfuls of dough onto a baking sheet.\n6. Bake for 10-12 minutes or until the edges are golden brown.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "picture": "https://example.com/chef-profile-pic.jpg",
+    "name": "Shakil ahmed",
+    "yearsOfExperience": "5 years",
+    "numberOfRecipes": 6,
+    "likes": 1000,
+    "shortBio": "John Smith is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
+    "recipes": [
+      {
+        "title": "Three-Cheese Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Cheddar cheese",
+          "Gruyere cheese",
+          "Parmesan cheese",
+          "Milk"
+        ],
+        "cookingMethod": "1. Cook the macaroni according to the package instructions.\n2. In a separate saucepan, melt the cheddar, gruyere, and parmesan cheeses with the milk over low heat.\n3. Add the cooked macaroni to the cheese sauce and stir to combine.",
+        "rating": 4.5
+      },
+      {
+        "title": "Grilled Ribeye Steak",
+        "ingredients": [
+          "Ribeye steak",
+          "Olive oil",
+          "Salt",
+          "Pepper",
+          "Garlic"
+        ],
+        "cookingMethod": "1. Preheat the grill to high heat.\n2. Brush the steak with olive oil and season with salt and pepper.\n3. Grill the steak for 4-5 minutes per side for medium-rare.\n4. Let the steak rest for 5 minutes before slicing.\n5. Optional: add minced garlic to the steak during the last minute of grilling for extra flavor.",
+        "rating": 4.2
+      },
+      {
+        "title": "Chocolate Chip Cookies",
+        "ingredients": [
+          "All-purpose flour",
+          "Brown sugar",
+          "White sugar",
+          "Butter",
+          "Chocolate chips"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F.\n2. Cream the butter, brown sugar, and white sugar in a mixing bowl.\n3. Add the flour and mix until well combined.\n4. Stir in the chocolate chips.\n5. Drop spoonfuls of dough onto a baking sheet.\n6. Bake for 10-12 minutes or until the edges are golden brown.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "picture": "https://example.com/chef-profile-pic.jpg",
+    "name": "Shakil ahmed",
+    "yearsOfExperience": "5 years",
+    "numberOfRecipes": 6,
+    "likes": 1000,
+    "shortBio": "John Smith is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
+    "recipes": [
+      {
+        "title": "Three-Cheese Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Cheddar cheese",
+          "Gruyere cheese",
+          "Parmesan cheese",
+          "Milk"
+        ],
+        "cookingMethod": "1. Cook the macaroni according to the package instructions.\n2. In a separate saucepan, melt the cheddar, gruyere, and parmesan cheeses with the milk over low heat.\n3. Add the cooked macaroni to the cheese sauce and stir to combine.",
+        "rating": 4.5
+      },
+      {
+        "title": "Grilled Ribeye Steak",
+        "ingredients": [
+          "Ribeye steak",
+          "Olive oil",
+          "Salt",
+          "Pepper",
+          "Garlic"
+        ],
+        "cookingMethod": "1. Preheat the grill to high heat.\n2. Brush the steak with olive oil and season with salt and pepper.\n3. Grill the steak for 4-5 minutes per side for medium-rare.\n4. Let the steak rest for 5 minutes before slicing.\n5. Optional: add minced garlic to the steak during the last minute of grilling for extra flavor.",
+        "rating": 4.2
+      },
+      {
+        "title": "Chocolate Chip Cookies",
+        "ingredients": [
+          "All-purpose flour",
+          "Brown sugar",
+          "White sugar",
+          "Butter",
+          "Chocolate chips"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F.\n2. Cream the butter, brown sugar, and white sugar in a mixing bowl.\n3. Add the flour and mix until well combined.\n4. Stir in the chocolate chips.\n5. Drop spoonfuls of dough onto a baking sheet.\n6. Bake for 10-12 minutes or until the edges are golden brown.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "picture": "https://example.com/chef-profile-pic.jpg",
+    "name": "Shakil ahmed",
+    "yearsOfExperience": "5 years",
+    "numberOfRecipes": 6,
+    "likes": 1000,
+    "shortBio": "John Smith is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
+    "recipes": [
+      {
+        "title": "Three-Cheese Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Cheddar cheese",
+          "Gruyere cheese",
+          "Parmesan cheese",
+          "Milk"
+        ],
+        "cookingMethod": "1. Cook the macaroni according to the package instructions.\n2. In a separate saucepan, melt the cheddar, gruyere, and parmesan cheeses with the milk over low heat.\n3. Add the cooked macaroni to the cheese sauce and stir to combine.",
+        "rating": 4.5
+      },
+      {
+        "title": "Grilled Ribeye Steak",
+        "ingredients": [
+          "Ribeye steak",
+          "Olive oil",
+          "Salt",
+          "Pepper",
+          "Garlic"
+        ],
+        "cookingMethod": "1. Preheat the grill to high heat.\n2. Brush the steak with olive oil and season with salt and pepper.\n3. Grill the steak for 4-5 minutes per side for medium-rare.\n4. Let the steak rest for 5 minutes before slicing.\n5. Optional: add minced garlic to the steak during the last minute of grilling for extra flavor.",
+        "rating": 4.2
+      },
+      {
+        "title": "Chocolate Chip Cookies",
+        "ingredients": [
+          "All-purpose flour",
+          "Brown sugar",
+          "White sugar",
+          "Butter",
+          "Chocolate chips"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F.\n2. Cream the butter, brown sugar, and white sugar in a mixing bowl.\n3. Add the flour and mix until well combined.\n4. Stir in the chocolate chips.\n5. Drop spoonfuls of dough onto a baking sheet.\n6. Bake for 10-12 minutes or until the edges are golden brown.",
+        "rating": 4.8
+      }
+    ]
+  }
+]
+  
