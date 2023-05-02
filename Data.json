@@ -1,6 +1,6 @@
 [{
     "id": "1",
-    "picture": "https://example.com/chef-profile-pic.jpg",
+    "picture": "https://i.postimg.cc/SRLvKX6X/8.jpg",
     "name": "John Smith",
     "yearsOfExperience": "5 years",
     "numberOfRecipes": 6,
@@ -48,24 +48,24 @@
 
   {
     "id": "2",
-    "picture": "https://example.com/chef-profile-pic.jpg",
-    "name": "Shakil ahmed",
-    "yearsOfExperience": "5 years",
-    "numberOfRecipes": 6,
-    "likes": 1000,
-    "shortBio": "John Smith is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
+    "picture": "https://i.postimg.cc/qRmD9fxY/3.jpg",
+    "name": "Angelina",
+    "yearsOfExperience": "3 years",
+    "numberOfRecipes": 9,
+    "likes": 10000,
+    "shortBio": "Angelina is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
     "recipes": [
       {
-        "title": "Three-Cheese Mac and Cheese",
+        "title": "Caprese Salad",
         "ingredients": [
-          "Elbow macaroni",
-          "Cheddar cheese",
-          "Gruyere cheese",
-          "Parmesan cheese",
-          "Milk"
+          "Fresh mozzarella cheese",
+          " vine-ripened tomatoes",
+          " fresh basil",
+          "extra-virgin olive oil",
+          " balsamic glaze."
         ],
         "cookingMethod": "1. Cook the macaroni according to the package instructions.\n2. In a separate saucepan, melt the cheddar, gruyere, and parmesan cheeses with the milk over low heat.\n3. Add the cooked macaroni to the cheese sauce and stir to combine.",
-        "rating": 4.5
+        "rating": 4.9
       },
       {
         "title": "Grilled Ribeye Steak",
@@ -95,12 +95,12 @@
   },
   {
     "id": "3",
-    "picture": "https://example.com/chef-profile-pic.jpg",
-    "name": "Shakil ahmed",
-    "yearsOfExperience": "5 years",
+    "picture": "https://i.postimg.cc/3wC1mMy6/4.jpg",
+    "name": "Katreen lunda",
+    "yearsOfExperience": "4 years",
     "numberOfRecipes": 6,
-    "likes": 1000,
-    "shortBio": "John Smith is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
+    "likes": 1050,
+    "shortBio": "Katreen lunda is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
     "recipes": [
       {
         "title": "Three-Cheese Mac and Cheese",
@@ -142,12 +142,12 @@
   },
   {
     "id": "4",
-    "picture": "https://example.com/chef-profile-pic.jpg",
-    "name": "Shakil ahmed",
+    "picture": "https://i.postimg.cc/WpSyxZ1K/banner.png",
+    "name": "Jhon Kingsly",
     "yearsOfExperience": "5 years",
     "numberOfRecipes": 6,
     "likes": 1000,
-    "shortBio": "John Smith is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
+    "shortBio": "Jhon Kingsly is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
     "recipes": [
       {
         "title": "Three-Cheese Mac and Cheese",
@@ -189,12 +189,12 @@
   },
   {
     "id": "5",
-    "picture": "https://example.com/chef-profile-pic.jpg",
-    "name": "Shakil ahmed",
+    "picture": "https://i.postimg.cc/dVX36DCZ/chef-one.jpg",
+    "name": "Mariana doone",
     "yearsOfExperience": "5 years",
     "numberOfRecipes": 6,
     "likes": 1000,
-    "shortBio": "John Smith is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
+    "shortBio": "Mariana doone is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
     "recipes": [
       {
         "title": "Three-Cheese Mac and Cheese",
@@ -236,12 +236,12 @@
   },
   {
     "id": "6",
-    "picture": "https://example.com/chef-profile-pic.jpg",
-    "name": "Shakil ahmed",
+    "picture": "https://i.postimg.cc/KjJvMYFz/chef-two.jpg",
+    "name": "Hannnah Khanna",
     "yearsOfExperience": "5 years",
     "numberOfRecipes": 6,
     "likes": 1000,
-    "shortBio": "John Smith is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
+    "shortBio": "Hannnah Khanna is a classically trained chef with a passion for creating unique and delicious dishes. He has worked in some of the top restaurants in the country and has gained a reputation for his innovative approach to cooking. In his spare time, John enjoys experimenting with new ingredients and techniques to create unforgettable culinary experiences for his guests.",
     "recipes": [
       {
         "title": "Three-Cheese Mac and Cheese",
