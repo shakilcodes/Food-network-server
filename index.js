@@ -13,6 +13,12 @@ app.get('/datas',(req, res)=>{
     res.send(datas)
 })
 
+app.get('/recipes/:id', (req,res)=>{
+    const id = req.params.id;
+    const singleData = datas.find(d => d.id == id)
+    res.send(singleData)
+})
+
 
 app.get('/data', (req, res)=>{
    res.send('Hi everuone')
